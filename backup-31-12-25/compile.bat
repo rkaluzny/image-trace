@@ -1,2 +1,0 @@
-pyinstaller main_cli.spec
-pyinstaller main_gui.spec

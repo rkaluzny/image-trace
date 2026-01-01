@@ -1,7 +1,0 @@
-requests
-exifread
-reportlab
-piexif
-Pillow
-pyinstaller
-stegano
