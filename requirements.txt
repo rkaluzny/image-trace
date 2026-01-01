@@ -1,0 +1,9 @@
+requests
+exifread
+reportlab
+piexif
+Pillow
+pyinstaller
+stegano
+tqdm
+pytest

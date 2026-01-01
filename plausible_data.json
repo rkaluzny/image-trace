@@ -1,0 +1,33 @@
+{
+  "makes": ["Canon", "Nikon", "Sony", "Fujifilm", "Olympus", "Panasonic", "Leica", "Samsung", "Google", "Apple", "Pentax", "Hasselblad"],
+  "models": {
+    "Canon": ["EOS Rebel T6i", "EOS 5D Mark IV", "PowerShot G7 X Mark III", "EOS R5", "EOS 90D"],
+    "Nikon": ["D3500", "Z 6II", "Coolpix P1000", "Z 9", "D850"],
+    "Sony": ["Alpha a7 III", "Alpha a6000", "Cyber-shot RX100 VII", "Alpha 1", "Alpha a7R IV"],
+    "Fujifilm": ["X-T4", "X100V", "GFX 100S", "X-T30 II"],
+    "Olympus": ["OM-D E-M5 Mark III", "Tough TG-6", "PEN-F"],
+    "Panasonic": ["Lumix GH5 II", "Lumix LX100 II", "Lumix S5", "Lumix G9"],
+    "Leica": ["Q2", "M10-P", "SL2", "M11"],
+    "Samsung": ["Galaxy S23 Camera", "Galaxy Note20 Camera", "Galaxy S24 Ultra Camera"],
+    "Google": ["Pixel 7 Pro Camera", "Pixel 8 Pro Camera", "Pixel Fold Camera"],
+    "Apple": ["iPhone 14 Pro Camera", "iPhone 15 Pro Max Camera", "iPhone SE Camera"],
+    "Pentax": ["K-1 Mark II", "K-3 Mark III", "645Z"],
+    "Hasselblad": ["X2D 100C", "907X & CFV 100C"]
+  },
+  "software": [
+    "Adobe Photoshop 2024", 
+    "GIMP 2.10.36", 
+    "Lightroom Classic 13.0", 
+    "Capture One 23", 
+    "Affinity Photo 2", 
+    "Snapseed 2.20", 
+    "iOS Photos 17.0", 
+    "Android Gallery",
+    "darktable 4.6.0",
+    "RawTherapee 5.10"
+  ],
+  "artists": ["John Doe", "Jane Smith", "Alex Johnson", "Maria Garcia", "David Lee", "Sarah Chen", "Emily White", "Michael Brown", "Kenji Tanaka"],
+  "f_numbers": [[28, 10], [40, 10], [56, 10], [80, 10], [110, 10]],
+  "exposure_times": [[1, 60], [1, 125], [1, 250], [1, 500]],
+  "iso_speeds": [100, 200, 400, 800, 1600, 3200]
+}

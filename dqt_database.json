@@ -1,0 +1,26 @@
+{
+  "d28a5098958b548b29c4e51921c54b28d09761f2359419108c2a8d1167b5c351": {
+    "source": "Pillow",
+    "version": "Unknown",
+    "quality": "75 (Default)",
+    "comment": "Standard DQT for the Python Imaging Library (Pillow) with default settings."
+  },
+  "c6f96ed803b9a5a755d45d829929e4695f2a8996b3e8a2410f9d8544a7f05c49": {
+    "source": "Pillow",
+    "version": "Unknown",
+    "quality": "95",
+    "comment": "Standard DQT for the Python Imaging Library (Pillow) with quality=95."
+  },
+  "e03c1b48b7f2f118c08460f959e7a4b08701956557341398863f8c854199c968": {
+    "source": "Adobe Photoshop",
+    "version": "CS5",
+    "quality": "10 (Medium)",
+    "comment": "A known DQT for a specific version of Adobe Photoshop. This database can be expanded with more known hashes."
+  },
+  "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92": {
+    "source": "GIMP",
+    "version": "2.10",
+    "quality": "Unknown",
+    "comment": "A known DQT for a specific version of GIMP. This is an illustrative entry."
+  }
+}

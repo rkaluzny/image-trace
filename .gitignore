@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+env/
+venv/
+
+# PyInstaller
+build/
+dist/
+
+# Inno Setup Output
+Output/
+Release/
+
+# Application Data & Reports
+# Ignore the main directory for case data
+cases/
+
+# Ignore report files or other temp files that might be created in the root
+/report.html
+/report.pdf
+/report.json
+/report.csv
+/ELA_*.png
+*.log
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Test specific
+.pytest_cache/
